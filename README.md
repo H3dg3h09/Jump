@@ -9,4 +9,4 @@ unfinished
 ####    (3).circle real-time refresh
 ####    (4).The circle's position should in the center when its position not in the center of the standing-platform and the next-platform is in other side
 
-test
+viv1
